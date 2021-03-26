@@ -2,8 +2,7 @@ A demonstration of `import type` from an external directory using create-react-a
 
 - `git clone git@github.com:colinhacks/import-type-cra.git`
 - `cd import-type-cra`
-- Install dependencies: `npm install`
-- Open `client/src/App.tsx`, note the `import type` invocation
-- `cd client`
+- `cd client && npm install`
+- open `client/src/App.tsx`, note the `import type` invocation
 - `yarn start`
-- The project compiles fine! 🚀
+- the project compiles fine! 🚀
