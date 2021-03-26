@@ -1,2 +1,2 @@
-export type MyType = { asdf: string };
-export const MyType = { asdf: 'asdf' };
+export const MyType = { test: 'asdf' };
+export type MyType = typeof MyType;
